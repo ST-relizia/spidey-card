@@ -161,10 +161,6 @@ body {
     height: 20px;
     align-items: center;
 }
-.pages a{
-    text-decoration: none;
-    color:  whitesmoke;
-}
 .pages svg{
     width:38px;
     height: 37px;
