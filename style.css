@@ -16,7 +16,9 @@ body {
     width: 90vw;
     height: 100vh;
 }
-
+.pages a{
+    text-decoration: none;
+    color:  whitesmoke;
 .top {
     background-color: black;
     display: flex;
